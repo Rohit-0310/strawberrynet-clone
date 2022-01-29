@@ -44,7 +44,7 @@ This is the clone of strawberrynet.com ,This Is Ecommerce Webisite We are Develo
     ```
 ### Website Flow
 * Homepage of Website.
-  <img src="" title="hover text">
+  <img src="https://github.com/Rohit-0310/strawberrynet-clone/blob/main/strawberrynet.jpg" title="hover text">
 
 * Login Page/SignUp Page
   <img src="Strawberrynet.jpg" alt="accessibility text" width="500px">
